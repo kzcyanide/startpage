@@ -4,7 +4,7 @@ const palette = macchiato;
 const default_config = {
   overrideStorage: true,
   temperature: {
-    location: "London",
+    location: "Kolkata, India",
     scale: "C",
   },
   clock: {
@@ -69,9 +69,9 @@ const default_config = {
           name: "media",
           links: [
             {
-              name: "уп",
-              url: "https://www.pravda.com.ua",
-              icon: "news",
+              name: "уoutube",
+              url: "https://www.youtube.com/",
+              icon: "brand-youtube",
               icon_color: palette.green,
             },
             {
@@ -116,9 +116,9 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "neptune",
-              url: "https://ui.neptune.ai",
-              icon: "circle-triangle",
+              name: "lightning AI",
+              url: "https://lightning.ai/",
+              icon: "bolt",
               icon_color: palette.peach,
             },
             {
