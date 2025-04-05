@@ -75,9 +75,9 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "mil.in.ua",
-              url: "https://mil.in.ua",
-              icon: "badge-filled",
+              name: "twitch",
+              url: "https://www.twitch.tv/",
+              icon: "brand-twitch",
               icon_color: palette.peach,
             },
             {
@@ -122,9 +122,9 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "stackoverflow",
+              name: "colab",
               url: "https://stackoverflow.com",
-              icon: "brand-stackoverflow",
+              icon: "brand-google",
               icon_color: palette.red,
             },
           ],
@@ -203,9 +203,9 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "facebook",
-              url: "https://www.facebook.com",
-              icon: "brand-facebook",
+              name: "instagram",
+              url: "https://www.instagram.com/",
+              icon: "brand-instagram",
               icon_color: palette.peach,
             },
             {
@@ -220,8 +220,8 @@ const default_config = {
           name: "gaming",
           links: [
             {
-              name: "IGN",
-              url: "https://www.ign.com/account/playlist/library",
+              name: "dodi repacks",
+              url: "https://dodi-repacks.site/",
               icon: "device-gamepad",
               icon_color: palette.green,
             },
@@ -238,20 +238,20 @@ const default_config = {
               icon_color: palette.red,
             },
             {
-              name: "nintendo",
-              url: "https://store.nintendo.co.uk",
-              icon: "device-nintendo",
+              name: "fitgirl",
+              url: "https://fitgirl-repacks.site/popular-repacks/",
+              icon: "device-gamepad",
               icon_color: palette.blue,
             },
           ],
         },
         {
-          name: "video",
+          name: "music",
           links: [
             {
-              name: "anilist",
-              url: "https://anilist.co/home",
-              icon: "brand-funimation",
+              name: "spotify",
+              url: "https://open.spotify.com/",
+              icon: "brand-spotify",
               icon_color: palette.green,
             },
             {
@@ -261,16 +261,10 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "patreon",
-              url: "https://www.patreon.com",
-              icon: "brand-patreon",
+              name: "apple music",
+              url: "https://music.apple.com/us/new",
+              icon: "brand-apple",
               icon_color: palette.red,
-            },
-            {
-              name: "kyivstar",
-              url: "https://tv.kyivstar.ua",
-              icon: "star-filled",
-              icon_color: palette.blue,
             },
           ],
         },
